@@ -5,6 +5,10 @@
 ### email: APetrovski5069296@gmail.com
 ### LinkedIN: https://www.linkedin.com/in/aliaksandr-piatrouski-a91b17133
 
+## About
+
+    Software Engineer with a demonstrated history of working in the research industry. Skilled in Data Warehousing, Business Intelligence Tools and Full-Stack Development. Web developer with a Master's degree focused in Mathematics from Graduate School of the National Academy of Sciences of Belarus.
+
 ## Skills
 
     - Full stack Web development
